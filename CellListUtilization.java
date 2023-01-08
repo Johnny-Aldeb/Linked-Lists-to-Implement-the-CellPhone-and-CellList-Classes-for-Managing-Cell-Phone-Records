@@ -1,9 +1,4 @@
-// -----------------------------------------------------
-//Written by: Johnny Aldeb
-//Student ID: 40187248
-//COMP249 Assignment #3 - PART 2
-//Due Date: Monday, NOV, 5, 2022
-// -----------------------------------------------------
+
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
